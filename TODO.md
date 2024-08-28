@@ -8,5 +8,5 @@
 - [ ] projects
 
 ## configuration
-- [ ] point domain
-- [ ] setup GH
+- [x] point domain
+- [x] setup GH
